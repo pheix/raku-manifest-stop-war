@@ -1,0 +1,15 @@
+{
+    "perl"        : "6.d",
+    "name"        : "Manifest::StopWar",
+    "authors"     : [ "Konstantin Narkhov" ],
+    "version"     : "0.0.1",
+    "description" : "This is the manifest to stop the war between Russia and Ukraine in Raku",
+    "depends"     : [],
+    "license"     : "Artistic-2.0",
+    "provides"    : {
+        "Manifest::StopWar" : "lib/Manifest/StopWar.rakumod"
+    },
+    "tags"        : [ "STOPWAR", "PEACE" ],
+    "source-url"  : "https://gitlab.com/pheix/raku-manifest-stop-war.git",
+    "auth"        : "zef:knarkhov"
+}
