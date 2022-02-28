@@ -30,7 +30,7 @@ ok 2 - Stop this war 🙏
 
 ## License information
 
-Pheix is free and opensource software, so you can redistribute it and/or modify it under the terms of the [The Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0).
+This is free and opensource software, so you can redistribute it and/or modify it under the terms of the [The Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0).
 
 ## Contributor
 
