@@ -36,6 +36,11 @@ Pheix is free and opensource software, so you can redistribute it and/or modify 
 
 Please contact me via [LinkedIn](https://www.linkedin.com/in/knarkhov/) or [Twitter](https://twitter.com/CondemnedCell). Your feedback is welcome at [narkhov.pro](https://narkhov.pro/contact-information.html).
 
+## Credits
+
+1. Gitlab: https://gitlab.com/pheix/raku-manifest-stop-war
+2. Github: https://github.com/pheix/raku-manifest-stop-war
+
 ## Afterword
 
 **STOP THE WAR RIGHT NOW!!!**
