@@ -19,3 +19,7 @@ method !pheix returns Str {
 }
 
 method !lizmat(--> Str:D) { "Being a child of a war refugee mother and having grown up with stories about the horrors of war, I hope that this war will end soon with the defeat of the kleptocratic oligarchs and their cronies currently in charge of Russia.  To my Russian and Ukranian friends: stay friends, even with yourself! 🇺🇦  🙏 🇷🇺" }
+
+method !JJ returns Str {
+    return 'I am totally apalled by this attack on the democracy and freedom of the people of Ukraine. Slava Ukraini!';
+}
