@@ -27,3 +27,5 @@ method !JJ returns Str {
 method !p6steve { "Everyone in the West is so shocked and saddened by this action by the insane Czar Putin on Russia's neighbours and brothers in Ukraine. We know that the typical Russian wants peace and we want you to know that we will never invade or bomb Russia. Please listen to the words of Navalny and Zelensky - talk to your kids in their tanks - and help us to fight for peace 🦋&☮️." }
 
 method!jonathanstowe { "Слава Україні!" }
+
+method!sjn { "I think this is worth making clear: Putin is a tool of Russia. This tool is the property and responsibility of Russians – not the other way around. When a tool is broken, it's either time to fix it or to replace it. Only broken tools hurt their family." }
