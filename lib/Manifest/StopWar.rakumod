@@ -23,3 +23,5 @@ method !lizmat(--> Str:D) { "Being a child of a war refugee mother and having gr
 method !JJ returns Str {
     return 'I am totally apalled by this attack on the democracy and freedom of the people of Ukraine. Slava Ukraini!';
 }
+
+method !p6steve { "Everyone in the West is so shocked and saddened by this action by the insane Czar Putin on Russia's neighbours and brothers in Ukraine. We know that the typical Russian wants peace and we want you to know that we will never invade or bomb Russia. Please listen to the words of Navalny and Zelensky - talk to your kids in their tanks - and help us to fight for peace 🦋&☮️." }
