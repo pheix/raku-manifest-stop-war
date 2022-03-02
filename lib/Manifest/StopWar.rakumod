@@ -17,3 +17,7 @@ method right-now returns Bool {
 method !pheix returns Str {
     return 'The war in Ukraine is my personal tragedy. I have relatives there, my great-grandma was Ukrainian. And the totally destructive feeling is inside me: I feel that Russian inside me is attacking, bombing and murdering Ukrainian inside me. Some kind of cancer, some kind of suicide. That is my pain. I love Russia — I was born here, here`s all my family and actually I do not want to leave it. But since now Russia means assault, invasion and suffer. And that kills me once again. I hate this and all I have to say — we did not start this war, we did not want deaths, we tried to change the course of events since 2011. But unfortunately we did not our best. I`m very sorry.';
 }
+
+method !JJ returns Str {
+    return 'I am totally apalled by this attack on the democracy and freedom of the people of Ukraine. Slava Ukraini!';
+}
