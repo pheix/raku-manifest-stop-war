@@ -29,3 +29,6 @@ method !p6steve { "Everyone in the West is so shocked and saddened by this actio
 method!jonathanstowe { "Слава Україні!" }
 
 method!sjn { "I think this is worth making clear: Putin is a tool of Russia. This tool is the property and responsibility of Russians – not the other way around. When a tool is broken, it's either time to fix it or to replace it. Only broken tools hurt their family." }
+
+method !andarna { 'This war is tragic and absurd, as all wars. I hope it will end soon. I don't think I can imagine what it must be like to be caught up in this, I wish everyone in the Ukraine the strenght to get through it.'
+}
