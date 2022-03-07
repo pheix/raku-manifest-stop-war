@@ -10,3 +10,4 @@ test:
     - zef --verbose install .
   only:
     - main
+    - develop

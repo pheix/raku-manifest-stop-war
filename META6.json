@@ -2,7 +2,7 @@
     "perl"        : "6.d",
     "name"        : "Manifest::StopWar",
     "authors"     : [ "Konstantin Narkhov" ],
-    "version"     : "0.0.7",
+    "version"     : "0.0.8",
     "description" : "This is the manifest to stop the war between Russia and Ukraine in Raku",
     "depends"     : [],
     "license"     : "Artistic-2.0",
