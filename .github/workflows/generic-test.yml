@@ -18,6 +18,6 @@ jobs:
         run: echo Hello, world!
       - name: Run a multi-line script
         run: |
-          zef install App::Prove6 && export /github/home/.raku/bin/
+          zef install App::Prove6 && export PATH=/github/home/.raku/bin/:$PATH
           prove6 -v -Ilib ./t/
           zef --verbose install .
