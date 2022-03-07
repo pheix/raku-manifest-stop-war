@@ -1,15 +1,24 @@
 unit class Manifest::StopWar;
 
 method right-now returns Bool {
-    my UInt $i = 0;
+    for self.fetch-manifest.values {
+        sprintf("%d. %s: %s", $_<index>, $_<author>, $_<claim>).say;
+    }
+
+    return True
+}
+
+method fetch-manifest returns List {
+    my @manifest;
+    my UInt $i;
 
     self.^private_methods.map({
         my $pm = $_.gist;
 
-        sprintf("%d. %s: %s", ++$i, $pm, self!"$pm"()).say;
+        @manifest.push({index => ++$i, author => $pm, claim => self!"$pm"()});
     });
 
-    return True;
+    return @manifest;
 }
 
 # feel free to add ur private method with anti-war, anti-military or just support pitch
