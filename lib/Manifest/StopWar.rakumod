@@ -41,3 +41,5 @@ method!sjn { "I think this is worth making clear: Putin is a tool of Russia. Th
 
 method !andarna { 'This war is tragic and absurd, as all wars. I hope it will end soon. I don\'t think I can imagine what it must be like to be caught up in this, I wish everyone in the Ukraine the strenght to get through it.'
 }
+
+method !frithnanth {“There are a number of things one can learn from this war: a wannabe α-male dictator is not always a joke to laugh at, a self-inflicted economic crisis is not always solved by giving money to one's supporting generals to wage a war, voters should demand a psychiatric evaluation of their head of state.”}
